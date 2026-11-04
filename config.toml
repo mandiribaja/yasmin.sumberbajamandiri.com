@@ -39,7 +39,7 @@ disableKinds = ["taxonomy", "term"]
     author = "Yasmin"
 
     # ---- Gambar (path tanpa awalan "/", relatif terhadap folder static) ----
-    avatar = "https://fakedetail.com/assets/images/profile.jpg"
+    avatar = "/images/logo-sbm-512x512-a.png"
     avatarclass = "circle"
     background = "/images/sumberbajamandiri-bg.png"
     banner = "images/sumberbajamandiri-bg.png"   # gambar header (kosong = header gradasi biru)

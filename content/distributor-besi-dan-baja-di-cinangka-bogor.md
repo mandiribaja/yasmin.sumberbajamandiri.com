@@ -1,6 +1,7 @@
 ---
 title: "Distributor Besi dan Baja di Cinangka Bogor"
 date: "2025-03-29"
+lastmod: "2026-11-04"
 toc: true
 draft: false
 description: "Distributor Besi dan Baja di Cinangka Bogor. Merancang pendirian atau perbaikan bangunan menjadi sesuatu yang amat penting, termasuk dalam penentuan..."
@@ -333,7 +334,7 @@ Besi Canal C (Channel C) merupakan profil baja struktur berbentuk huruf “C” 
 
 Kami menyediakan layanan penghitungan struktur serta konsultasi teknis bagi membantu kamu menentukan spesifikasi besi canal C yg tepat bagi kebutuhan proyek. Layanan fabrication dan bending juga tersedia bagi kebutuhan konstruksi khusus.
 
-Semua produk besi serta baja yg kami sediakan sudah melalui proses quality control yang ketat dan memiliki sertifikasi kualitas dari terpercaya. Kami bertekad untuk menyediakan material konstruksi berkualitas tinggi dan harga yang kompetitif serta layanan yang memuaskan.
+Semua produk besi serta baja yg kami sediakan sudah melalui proses quality control yang ketat dan memiliki sertifikasi kualitas dari terpercaya, dan untuk pilihan lainnya Anda dapat melihat [distributor besi dan baja di Babakan Raden Bogor](/distributor-besi-dan-baja-di-babakan-raden-bogor/). Kami bertekad untuk menyediakan material konstruksi berkualitas tinggi dan harga yang kompetitif serta layanan yang memuaskan.
 
 ## Tabel Harga Besi dan Baja di Cinangka
 

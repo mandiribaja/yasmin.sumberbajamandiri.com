@@ -40,7 +40,12 @@
     "/distributor-besi-dan-baja-di-curug-bogor/",
     "/distributor-besi-dan-baja-di-cisalada-bogor/",
     "/distributor-besi-dan-baja-di-gunung-menyan-bogor/",
-    "/distributor-besi-dan-baja-di-gunung-picung-bogor/"
+    "/distributor-besi-dan-baja-di-gunung-picung-bogor/",
+    "/distributor-besi-dan-baja-di-desacibitung-kulon-bogor/",
+    "/distributor-besi-dan-baja-di-desasukaresmi-bogor/",
+    "/distributor-besi-dan-baja-di-dramaga-bogor/",
+    "/distributor-besi-dan-baja-di-gintung-cilejet-bogor/",
+    "/distributor-besi-dan-baja-di-gobang-bogor/"
   ],
   "failed": {
     "/distributor-besi-dan-baja-di-antajaya-bogor/": 2,
@@ -114,18 +119,25 @@
     "/distributor-besi-dan-baja-di-citapen-bogor/": 2,
     "/distributor-besi-dan-baja-di-citaringgul-bogor/": 2,
     "/distributor-besi-dan-baja-di-citeko-bogor/": 2,
-    "/distributor-besi-dan-baja-di-curugbitung-bogor/": 1,
-    "/distributor-besi-dan-baja-di-dago-bogor/": 1,
+    "/distributor-besi-dan-baja-di-curugbitung-bogor/": 2,
+    "/distributor-besi-dan-baja-di-dago-bogor/": 2,
     "/distributor-besi-dan-baja-di-desacibitung-kulon-bogor/": 1,
     "/distributor-besi-dan-baja-di-desasukaresmi-bogor/": 1,
     "/distributor-besi-dan-baja-di-dramaga-bogor/": 1,
     "/distributor-besi-dan-baja-di-gintung-cilejet-bogor/": 1,
-    "/distributor-besi-dan-baja-di-girimulya-bogor/": 1,
+    "/distributor-besi-dan-baja-di-girimulya-bogor/": 2,
     "/distributor-besi-dan-baja-di-gobang-bogor/": 1,
-    "/distributor-besi-dan-baja-di-gorowong-bogor/": 1,
-    "/distributor-besi-dan-baja-di-gunung-bunder-ii-bogor/": 1,
-    "/distributor-besi-dan-baja-di-gunung-mulya-bogor/": 1,
-    "/distributor-besi-dan-baja-di-gunung-sindur-bogor/": 1,
-    "/distributor-besi-dan-baja-di-gununggeulis-bogor/": 1
+    "/distributor-besi-dan-baja-di-gorowong-bogor/": 2,
+    "/distributor-besi-dan-baja-di-gunung-bunder-ii-bogor/": 2,
+    "/distributor-besi-dan-baja-di-gunung-mulya-bogor/": 2,
+    "/distributor-besi-dan-baja-di-gunung-sindur-bogor/": 2,
+    "/distributor-besi-dan-baja-di-gununggeulis-bogor/": 2,
+    "/distributor-besi-dan-baja-di-gunungmalang-bogor/": 1,
+    "/distributor-besi-dan-baja-di-gunungputri-bogor/": 1,
+    "/distributor-besi-dan-baja-di-gunungsindur-bogor/": 1,
+    "/distributor-besi-dan-baja-di-hambalang-bogor/": 1,
+    "/distributor-besi-dan-baja-di-hambaro-bogor/": 1,
+    "/distributor-besi-dan-baja-di-jabon-mekar-bogor/": 1,
+    "/distributor-besi-dan-baja-di-jagabaya-bogor/": 1
   }
 }

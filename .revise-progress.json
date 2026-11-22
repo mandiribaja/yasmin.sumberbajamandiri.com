@@ -96,7 +96,11 @@
     "/distributor-besi-dan-baja-di-puspanegara-bogor/",
     "/distributor-besi-dan-baja-di-puspasari-bogor/",
     "/distributor-besi-dan-baja-di-ragajaya-bogor/",
-    "/distributor-besi-dan-baja-di-rancabungur-bogor/"
+    "/distributor-besi-dan-baja-di-rancabungur-bogor/",
+    "/distributor-besi-dan-baja-di-purasari-bogor/",
+    "/distributor-besi-dan-baja-di-puraseda-bogor/",
+    "/distributor-besi-dan-baja-di-sadengkolot-bogor/",
+    "/distributor-besi-dan-baja-di-sanja-bogor/"
   ],
   "failed": {
     "/distributor-besi-dan-baja-di-antajaya-bogor/": 2,
@@ -243,15 +247,23 @@
     "/distributor-besi-dan-baja-di-pasirjaya-bogor/": 1,
     "/distributor-besi-dan-baja-di-pasirmadang-bogor/": 2,
     "/distributor-besi-dan-baja-di-pasirmuncang-bogor/": 2,
-    "/distributor-besi-dan-baja-di-pengasinan-bogor/": 1,
-    "/distributor-besi-dan-baja-di-petir-bogor/": 1,
-    "/distributor-besi-dan-baja-di-pondok-rajeg-bogor/": 1,
-    "/distributor-besi-dan-baja-di-pondok-udik-bogor/": 1,
+    "/distributor-besi-dan-baja-di-pengasinan-bogor/": 2,
+    "/distributor-besi-dan-baja-di-petir-bogor/": 2,
+    "/distributor-besi-dan-baja-di-pondok-rajeg-bogor/": 2,
+    "/distributor-besi-dan-baja-di-pondok-udik-bogor/": 2,
     "/distributor-besi-dan-baja-di-purasari-bogor/": 1,
     "/distributor-besi-dan-baja-di-puraseda-bogor/": 1,
-    "/distributor-besi-dan-baja-di-purwabakti-bogor/": 1,
-    "/distributor-besi-dan-baja-di-purwasari-bogor/": 1,
-    "/distributor-besi-dan-baja-di-putatnutug-bogor/": 1,
-    "/distributor-besi-dan-baja-di-rabak-bogor/": 1
+    "/distributor-besi-dan-baja-di-purwabakti-bogor/": 2,
+    "/distributor-besi-dan-baja-di-purwasari-bogor/": 2,
+    "/distributor-besi-dan-baja-di-putatnutug-bogor/": 2,
+    "/distributor-besi-dan-baja-di-rabak-bogor/": 2,
+    "/distributor-besi-dan-baja-di-rumpin-bogor/": 1,
+    "/distributor-besi-dan-baja-di-sadeng-bogor/": 1,
+    "/distributor-besi-dan-baja-di-sasakpanjang-bogor/": 1,
+    "/distributor-besi-dan-baja-di-selawangi-bogor/": 1,
+    "/distributor-besi-dan-baja-di-semplak-barat-bogor/": 1,
+    "/distributor-besi-dan-baja-di-setu-bogor/": 1,
+    "/distributor-besi-dan-baja-di-setu-daun-bogor/": 1,
+    "/distributor-besi-dan-baja-di-sibanteng-bogor/": 1
   }
 }

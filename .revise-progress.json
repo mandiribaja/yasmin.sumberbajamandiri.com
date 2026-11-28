@@ -124,7 +124,11 @@
     "/distributor-besi-dan-baja-di-sukawening-bogor/",
     "/distributor-besi-dan-baja-di-susukan-bogor/",
     "/distributor-besi-dan-baja-di-tajurhalang-bogor/",
-    "/distributor-besi-dan-baja-di-tangkil-bogor/"
+    "/distributor-besi-dan-baja-di-tangkil-bogor/",
+    "/distributor-besi-dan-baja-di-sukaresmi-bogor/",
+    "/distributor-besi-dan-baja-di-tapos-bogor/",
+    "/distributor-besi-dan-baja-di-tegalwangi-bogor/",
+    "/distributor-besi-dan-baja-di-urug-bogor/"
   ],
   "failed": {
     "/distributor-besi-dan-baja-di-antajaya-bogor/": 2,
@@ -307,11 +311,22 @@
     "/distributor-besi-dan-baja-di-sukamanah-bogor/": 2,
     "/distributor-besi-dan-baja-di-sukamulih-bogor/": 1,
     "/distributor-besi-dan-baja-di-sukamulya-bogor/": 2,
-    "/distributor-besi-dan-baja-di-sukaraksa-bogor/": 1,
+    "/distributor-besi-dan-baja-di-sukaraksa-bogor/": 2,
     "/distributor-besi-dan-baja-di-sukaresmi-bogor/": 1,
-    "/distributor-besi-dan-baja-di-sukawangi-bogor/": 1,
-    "/distributor-besi-dan-baja-di-sukmajaya-bogor/": 1,
-    "/distributor-besi-dan-baja-di-sumur-batu-bogor/": 1,
-    "/distributor-besi-dan-baja-di-tanjungsari-bogor/": 1
+    "/distributor-besi-dan-baja-di-sukawangi-bogor/": 2,
+    "/distributor-besi-dan-baja-di-sukmajaya-bogor/": 2,
+    "/distributor-besi-dan-baja-di-sumur-batu-bogor/": 2,
+    "/distributor-besi-dan-baja-di-tanjungsari-bogor/": 2,
+    "/distributor-besi-dan-baja-di-tapos-i-bogor/": 1,
+    "/distributor-besi-dan-baja-di-tapos-ii-bogor/": 1,
+    "/distributor-besi-dan-baja-di-tarikolot-bogor/": 1,
+    "/distributor-besi-dan-baja-di-tegal-bogor/": 1,
+    "/distributor-besi-dan-baja-di-telukpinang-bogor/": 1,
+    "/distributor-besi-dan-baja-di-tenjolaya-bogor/": 1,
+    "/distributor-besi-dan-baja-di-tlajungudik-bogor/": 1,
+    "/distributor-besi-dan-baja-di-tonjong-bogor/": 1,
+    "/distributor-besi-dan-baja-di-tugu-utara-bogor/": 1,
+    "/distributor-besi-dan-baja-di-wanaherang-bogor/": 1,
+    "/distributor-besi-dan-baja-di-wangun-jaya-bogor/": 1
   }
 }
